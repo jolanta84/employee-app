@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "id": 2,
+      "firstName": "Ola",
+      "lastName": "Falka",
+      "emailId": "ola@wp.pl",
+      "active": true
+    },
+    {
+      "id": 3,
+      "firstName": "Piotr",
+      "lastName": "Loki",
+      "emailId": "pit@wp.pl",
+      "active": false
+    },
+    {
+      "id": 1,
+      "firstName": "a",
+      "lastName": "b",
+      "emailId": "c",
+      "active": true
+    }
+  ]
+}
